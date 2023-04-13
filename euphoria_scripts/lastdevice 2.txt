@@ -1,0 +1,85 @@
+ActivationState: Unactivated
+BasebandActivationTicketVersion: V2
+BasebandCertId: 1421084145
+BasebandChipID: 96
+BasebandKeyHashInformation: 
+ AKeyStatus: 0
+ SKeyHash: u+/tcCwvaQ+1Y9t40I4yegCEmB28mALlaROhaIVGBWo=
+ SKeyStatus: 0
+BasebandMasterKeyHash: 8CB15EE4C8002199070D9500BB8FB183B02713A5CA2A6B92DB5E75CE15536182
+BasebandRegionSKU: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+BasebandSerialNumber: k0EYaQIABsF5mwMl
+BasebandStatus: BBInfoAvailable
+BasebandVersion: 6.03.01
+BluetoothAddress: c0:d0:12:77:5a:46
+BoardId: 14
+BrickState: true
+BuildVersion: 19H307
+CPUArchitecture: arm64
+CarrierBundleInfoArray[0]: 
+CertID: 1421084145
+ChipID: 32784
+ChipSerialNo: k0EYaQIABsF5mwMl
+DeviceClass: iPhone
+DeviceColor: 2
+DeviceName: iPhone
+DieID: 1764260898816806
+EthernetAddress: c0:d0:12:77:5a:47
+FirmwareVersion: iBoot-7459.140.15
+FusingStatus: 3
+HardwareModel: D111AP
+HardwarePlatform: t8010
+HasSiDP: true
+HostAttached: true
+InternationalMobileEquipmentIdentity: 355357083296918
+MLBSerialNumber: F3Y71320D25GY4RB
+MobileSubscriberCountryCode: 
+MobileSubscriberNetworkCode: 
+ModelNumber: MNQX2
+NonVolatileRAM: 
+ IONVRAM-SYNCNOW-PROPERTY: SU9OVlJBTS1TWU5DTk9XLVBST1BFUlRZ
+ auto-boot: dHJ1ZQ==
+ backlight-level: MTUwOQ==
+ backlight-nits: MHgwMGE2ZTQzMA==
+ boot-args: 
+ boot-breadcrumbs: MzAwMGMoNjM2ODY3MzApIDQwMDQwMDIxIDQwMDQwMDFlIDQwMDMwMDBlIDQwMDkwMDAxIDMwMDBjKDcyNjQ3NDcyKSA0MDA0MDAxMyA0MDA0MDAxMSA0MDA0MDAxYyA0MDAyOSAzMDAwZCAzMDAwYyg3NDcyNzM3NCkgNDAwNDAwMTMgNDAwNDAwMTEgNDAwNDAwMWMgMzAwMGQgMzAwMGMoNzI2YjcyNmUpIDQwMDQwMDEzIDQwMDQwMDExIDQwMDQwMDFjIDQwMDI5IDMwMDBkIDQwMDM2KDApIDxET05FPiA8Q09NTUlUPiA8Qk9PVD4gMWMwMDJiKDIwMDZkMDApIDMwMDBjKDY5NjI2NTYzKSA0MDA0MDAxYSA0MDA0MDAxMyA0MDA0MDAxMSA0MDA0MDAxYyAzMDAwZCA8RE9ORT4gPENPTU1JVD4gPEJPT1Q+IDFjMDAyYigyMDA2ZDAwKSAzMDAwYyg2MzY4NjczMCkgNDAwNDAwMjEgNDAwNDAwMWUgNDAwMzAwMGUgNDAwOTAwMDEgMzAwMGMoNzI2NDc0NzIpIDQwMDQwMDEzIDQwMDQwMDExIDQwMDQwMDFjIDQwMDI5IDMwMDBkIDMwMDBjKDc0NzI3Mzc0KSA0MDA0MDAxMyA0MDA0MDAxMSA0MDA0MDAxYyAzMDAwZCAzMDAwYyg3MjZiNzI2ZSkgNDAwNDAwMTMgNDAwNDAwMTEgNDAwNDAwMWMgNDAwMjkgMzAwMGQgNDAwMzYoMCkgPERPTkU+IDxDT01NSVQ+IA==
+ bootdelay: MA==
+ com.apple.System.tz0-size: MHhDMDAwMDA=
+ fm-account-masked: YuKAouKAouKAouKAouKAokBpY2xvdWQuY29t
+ fm-activation-locked: WUVT
+ fm-spkeys: YnBsaXN0MDDWAQIDBAUGBwgJEhMUUXNRaVF2UWJRbFFwTxAgQRVtRLL+l/+gtN0YllkAsAM6VB5k0BNPsvrP/evdL30RASnSCgsMEVExUTLSDQ4PEFFsUXMQABBg0g0ODxAzQcSdU9f7XWhPEBBb3xIEYEBGO5xsqG3geOJ6TxA5BO/2SVwbWI23EsAydKXpXE19v94k0eTxASQcK1oQmGXk2XyqUjd9reZkBFISgkPUnseKRy/LW0ShCBUXGRsdHyFER0xOUFVXWVtdYmt+AAAAAAAAAQEAAAAAAAAAFQAAAAAAAAAAAAAAAAAAALo=
+ fm-spstatus: WUVT
+ mkb-reports: YnBsaXN0MDDSAQIDC1REQVRBVFZFUlOlBAcICQqiBQYQAhEXAaIFBqIFBqIFBqIFBhAACA0SFx0gIiUoKy4xAAAAAAAAAQEAAAAAAAAADAAAAAAAAAAAAAAAAAAAADM=
+ obliteration: U2FmZU9ibGl0IGRvbmUgQDE2Nzg4NTYyMDQsIEVycjo4OSwgQnk6PHVua25vd24+IFtnRjogMHgwMDAwMDAwMDA0MDAwMDAwXQ==
+PairRecordProtectionClass: 4
+PartitionType: GUID_partition_scheme
+PasswordProtected: false
+PkHash: VLQF8XqmnPfsqK4yvw84POncQtTpCe5ZUT5p0WSdkVM=
+ProductName: iPhone OS
+ProductType: iPhone9,4
+ProductVersion: 15.7.3
+ProductionSOC: true
+ProtocolVersion: 2
+ProximitySensorCalibration: f3oABTIAHgCNF5FBKVxuQQAAyEIAb3lBQs8nQQAAFkMAb3lBQs8nQQAAFkM7P0VD7lpFwclWckRc/3NEpAB0RLppdERgdr9BDBPBQWD2y0GwA9NBAAAgQtMN80IGAc9BAABIQna4skMvLbJD5IYWRuVwS0OQpI4eAh4YQSKmrkVG1oZDUmxfRQIAAAAAAADo
+RegionInfo: LL/A
+SIMStatus: kCTSIMSupportSIMStatusNotInserted
+SIMTrayStatus: kCTSIMSupportSIMTrayInsertedNoSIM
+SerialNumber: F2LTG8NHHG05
+SoftwareBehavior: EQAAAAAAAAAAAAAAAAAAAA==
+SoftwareBundleVersion: 
+SupportedDeviceFamilies[1]: 
+ 0: 1
+TelephonyCapability: true
+TimeIntervalSince1970: 1681185000.882158
+TimeZone: America/Denver
+TimeZoneOffsetFromUTC: -21600.000000
+TrustedHostAttached: true
+UniqueChipID: 1764260898816806
+UniqueDeviceID: 0fffab8eac4c7a566ee45bc999ebf752c92a34a4
+UntrustedHostBUID: 3228B4CA-4E87-4340-8FC6-E25B0F9F542E
+UseRaptorCerts: true
+Uses24HourClock: false
+WiFiAddress: c0:d0:12:77:5a:24
+WirelessBoardSerialNumber: F204A0B762
+kCTPostponementInfoServiceProvisioningState: true
+kCTPostponementStatus: kCTPostponementStatusReady
